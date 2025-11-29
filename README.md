@@ -1,7 +1,5 @@
 # dmenu
 
-![dmenu](https://github.com/lutheran736/dotfiles/blob/screenshot/dmenu.png?raw=true)
-
 Extra stuff added to vanilla dmenu:
 
 - reads Xresources (ergo pywal compatible)
